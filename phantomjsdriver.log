@@ -1,0 +1,1433 @@
+[INFO  - 2019-04-17T09:11:13.325Z] GhostDriver - Main - running on port 42718
+[INFO  - 2019-04-17T09:11:14.016Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-04-17T09:11:14.016Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.customHeaders:  - {}
+[INFO  - 2019-04-17T09:11:14.017Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-04-17T09:11:14.017Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: bfefeba0-60f0-11e9-87e7-055e513fe29c
+[ERROR - 2019-04-17T09:11:23.590Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - msg: ERROR TypeError: Attempted to assign to readonly property.
+[ERROR - 2019-04-17T09:11:23.590Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T09:11:23.629Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T09:11:23.629Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T09:11:23.642Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T09:11:23.642Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T09:11:23.644Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T09:11:23.645Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T09:11:23.650Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T09:11:23.650Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T09:11:23.659Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T09:11:23.659Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T09:11:23.742Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T09:11:23.742Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T09:11:23.753Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T09:11:23.753Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T09:11:23.764Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T09:11:23.764Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T09:11:23.781Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T09:11:23.782Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T09:11:23.799Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T09:11:23.800Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T09:11:23.815Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T09:11:23.816Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T09:11:23.838Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T09:11:23.838Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T09:11:24.059Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T09:11:24.059Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T09:11:24.067Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T09:11:24.067Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T09:11:24.070Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T09:11:24.070Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T09:11:24.079Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T09:11:24.079Z] Session [bfefeba0-60f0-11e9-87e7-055e513fe29c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T09:11:28.227Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1555492288201
+[ERROR - 2019-04-17T09:11:33.445Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1555492293392
+[ERROR - 2019-04-17T09:11:38.601Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1555492298588
+[INFO  - 2019-04-17T09:16:13.331Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T09:21:13.332Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T09:26:13.332Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T09:31:13.338Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T09:36:13.339Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T09:41:13.338Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T09:46:13.339Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T09:51:13.339Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T09:56:13.340Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:01:13.340Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:06:13.340Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:11:13.340Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:16:13.341Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:21:13.341Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:26:13.341Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:31:13.342Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:36:13.341Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:41:13.342Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:46:13.341Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:51:16.331Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:56:16.331Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:01:16.332Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:06:16.332Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:11:16.332Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:16:16.333Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:21:16.333Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:26:16.333Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:31:16.333Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:36:16.333Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:41:16.333Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:46:16.334Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:51:16.334Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:56:16.334Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:01:16.334Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:06:16.334Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:11:16.334Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:16:16.334Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:21:16.334Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:26:16.334Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:31:16.334Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:36:16.335Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:41:16.334Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:46:16.335Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:51:16.335Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:56:16.335Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:01:16.335Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:06:16.335Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:11:16.336Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:16:16.337Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:21:16.343Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:26:16.343Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:31:16.343Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:36:16.344Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:41:16.344Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:46:16.344Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:51:16.345Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+-04-17T10:06:40.501Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:11:40.501Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:16:40.501Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:21:40.501Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:26:40.501Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:31:40.501Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:36:40.504Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:41:40.510Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:46:40.510Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:51:43.499Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:56:43.501Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:01:43.501Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:06:43.501Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:11:43.502Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:16:43.502Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:21:43.502Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:26:43.502Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:31:43.502Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:36:43.502Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:41:43.502Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:46:43.502Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:51:43.504Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:56:43.504Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:01:43.504Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:06:43.504Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:11:43.504Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:16:43.504Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:21:43.504Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:26:43.504Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:31:43.505Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:36:43.505Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:41:43.505Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:46:43.505Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:51:43.505Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:56:43.505Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:01:43.505Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:06:43.505Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:11:43.506Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:16:43.506Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:21:43.506Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:26:43.506Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:31:43.506Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:36:43.506Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:41:43.506Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:46:43.507Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:51:43.506Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+and - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:11:52.663Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:16:52.663Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:21:52.663Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:26:52.663Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:31:52.663Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:36:52.663Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:41:52.665Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:46:52.665Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:51:52.673Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+ting NOW
+[INFO  - 2019-04-17T09:27:22.320Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T09:32:22.321Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T09:37:22.321Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T09:42:22.321Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T09:47:22.321Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T09:52:22.322Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T09:57:22.322Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:02:22.322Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:07:22.322Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:12:22.322Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:17:22.322Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:22:22.322Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:27:22.322Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:32:22.322Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:37:22.322Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:42:22.322Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:47:22.323Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:52:25.312Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:57:25.313Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:02:25.312Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:07:25.312Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:12:25.314Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:17:25.314Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:22:25.314Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:27:25.314Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:32:25.314Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:37:25.314Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:42:25.314Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:47:25.315Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:52:25.315Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:57:25.315Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:02:25.315Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:07:25.315Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:12:25.315Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:17:25.315Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:22:25.316Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:27:25.319Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:32:25.316Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:37:25.317Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:42:25.316Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:47:25.317Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:52:25.317Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:57:25.317Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:02:25.317Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:07:25.317Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:12:25.318Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:17:25.318Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:22:25.318Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:27:25.318Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:32:25.318Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:37:25.318Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:42:25.318Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:47:25.318Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:52:25.318Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+se starting NOW
+[INFO  - 2019-04-17T10:42:44.686Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:47:44.686Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:52:47.676Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:57:47.676Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:02:47.677Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:07:47.677Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:12:47.677Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:17:47.677Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:22:47.677Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:27:47.677Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:32:47.677Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:37:47.677Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:42:47.677Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:47:47.677Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:52:47.677Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:57:47.678Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:02:47.678Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:07:47.678Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:12:47.678Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:17:47.678Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:22:47.679Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:27:47.680Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:32:47.681Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:37:47.681Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:42:47.684Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:47:47.684Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:52:47.686Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:57:47.686Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:02:47.687Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:07:47.687Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:12:47.687Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:17:47.687Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:22:47.689Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:27:47.689Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:32:47.690Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:37:47.690Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:42:47.690Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:47:47.690Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:52:47.690Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+nd - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:12:56.523Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:17:56.523Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:22:56.528Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:27:56.528Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:32:56.528Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:37:56.528Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:42:56.528Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:47:56.528Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:52:56.528Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+ea0] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T09:27:51.709Z] Session [0c396c00-60f3-11e9-b569-59cad7610ea0] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T09:27:55.164Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1555493275135
+[ERROR - 2019-04-17T09:28:00.351Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1555493280345
+[ERROR - 2019-04-17T09:28:05.540Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1555493285501
+[INFO  - 2019-04-17T09:32:40.258Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T09:37:40.258Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T09:42:40.258Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T09:47:40.258Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T09:52:40.258Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T09:57:40.258Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:02:40.258Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:07:40.258Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:12:40.258Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:17:40.258Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:22:40.258Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:27:40.262Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:32:40.262Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:37:40.262Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:42:40.262Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:47:40.262Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:52:43.252Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:57:43.252Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:02:43.252Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:07:43.252Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:12:43.252Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:17:43.252Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:22:43.252Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:27:43.252Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:32:43.253Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:37:43.253Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:42:43.253Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:47:43.253Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:52:43.253Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:57:43.253Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:02:43.253Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:07:43.254Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:12:43.253Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:17:43.253Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:22:43.253Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:27:43.254Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:32:43.254Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:37:43.254Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:42:43.254Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:47:43.254Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:52:43.254Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:57:43.257Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:02:43.264Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:07:43.264Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:12:43.264Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:17:43.264Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:22:43.264Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:27:43.264Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:32:43.266Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:37:43.267Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:42:43.267Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:47:43.267Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:52:43.267Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+04-17T10:08:07.480Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:13:07.480Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:18:07.480Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:23:07.480Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:28:07.480Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:33:07.480Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:38:07.480Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:43:07.481Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:48:07.481Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:53:10.470Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:58:10.470Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:03:10.471Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:08:10.471Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:13:10.471Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:18:10.471Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:23:10.471Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:28:10.473Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:33:10.471Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:38:10.471Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:43:10.471Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:48:10.472Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:53:10.472Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:58:10.471Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:03:10.471Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:08:10.472Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:13:10.472Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:18:10.472Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:23:10.472Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:28:10.473Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:33:10.473Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:38:10.474Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:43:10.474Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:48:10.474Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:53:10.474Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:58:10.494Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:03:10.492Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:08:10.495Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:13:10.496Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:18:10.495Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:23:10.497Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:28:10.497Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:33:10.501Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:38:10.501Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:43:10.501Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:48:10.502Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:53:10.502Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+synchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:23:19.528Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:28:19.531Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:33:19.531Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:38:19.531Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:43:19.531Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:48:19.532Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:53:19.531Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+criptEnabled":true,"loadImages":tru[INFO  - 2019-04-17T09:35:42.212Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T09:40:42.212Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T09:45:42.212Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T09:50:42.212Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T09:55:42.213Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:00:42.213Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:05:42.213Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:10:42.214Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:15:42.214Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:20:42.214Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:25:42.214Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:30:42.215Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:35:42.216Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:40:42.216Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:45:42.216Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:50:45.206Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:55:45.206Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:00:45.207Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:05:45.207Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:10:45.207Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:15:45.207Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:20:45.207Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:25:45.208Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:30:45.208Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:35:45.208Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:40:45.209Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:45:45.208Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:50:45.209Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:55:45.209Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:00:45.210Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:05:45.209Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:10:45.209Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:15:45.210Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:20:45.210Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:25:45.210Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:30:45.210Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:35:45.210Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:40:45.217Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:45:45.219Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:50:45.219Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:55:45.219Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:00:45.219Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:05:45.219Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:10:45.220Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:15:45.220Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:20:45.220Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:25:45.220Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:30:45.220Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:35:45.220Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:40:45.220Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:45:45.221Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:50:45.221Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+ - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:30:51.044Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:35:51.045Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:40:51.045Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:45:51.046Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:50:54.036Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:55:54.036Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:00:54.036Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:05:54.037Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:10:54.036Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:15:54.037Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:20:54.037Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:25:54.037Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:30:54.038Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:35:54.037Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:40:54.037Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:45:54.037Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:50:54.037Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:55:54.037Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:00:54.038Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:05:54.038Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:10:54.037Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:15:54.038Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:20:54.038Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:25:54.038Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:30:54.039Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:35:54.045Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:40:54.045Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:45:54.045Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:50:54.045Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:55:54.045Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:00:54.045Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:05:54.045Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:10:54.045Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:15:54.045Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:20:54.045Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:25:54.045Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:30:54.046Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:35:54.045Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:40:54.046Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:45:54.046Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:50:54.047Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+1:02.802Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:46:02.802Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:51:02.802Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+RROR - 2019-04-17T09:46:51.763Z] Session [b39066f0-60f5-11e9-a145-dffae4d61f10] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T09:46:51.784Z] Session [b39066f0-60f5-11e9-a145-dffae4d61f10] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T09:46:51.785Z] Session [b39066f0-60f5-11e9-a145-dffae4d61f10] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T09:46:51.787Z] Session [b39066f0-60f5-11e9-a145-dffae4d61f10] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T09:46:51.787Z] Session [b39066f0-60f5-11e9-a145-dffae4d61f10] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T09:46:52.351Z] Session [b39066f0-60f5-11e9-a145-dffae4d61f10] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T09:46:52.352Z] Session [b39066f0-60f5-11e9-a145-dffae4d61f10] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[INFO  - 2019-04-17T09:51:40.364Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T09:56:40.367Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:01:40.367Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:06:40.367Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:11:40.368Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:16:40.368Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:21:40.369Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:26:40.369Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:31:40.369Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:36:40.372Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:41:40.400Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:46:40.400Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:51:43.390Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:56:43.391Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:01:43.391Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:06:43.391Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:11:43.391Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:16:43.391Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:21:43.391Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:26:43.391Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:31:43.391Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:36:43.392Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:41:43.392Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:46:43.392Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:51:43.400Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:56:43.400Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:01:43.400Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:06:43.407Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:11:43.408Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:16:43.408Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:21:43.408Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:26:43.408Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:31:43.408Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:36:43.408Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:41:43.409Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:46:43.409Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:51:43.409Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:56:43.409Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:01:43.409Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:06:43.409Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:11:43.409Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:16:43.409Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:21:43.409Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:26:43.409Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:31:43.409Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:36:43.409Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:41:43.409Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:46:43.410Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:51:43.410Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+eqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:21:52.652Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:26:52.652Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:31:52.652Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:36:52.652Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:41:52.652Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:46:52.652Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:51:55.642Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:56:55.642Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:01:55.642Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:06:55.643Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:11:55.642Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:16:55.642Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:21:55.642Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:26:55.642Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:31:55.642Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:36:55.642Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:41:55.642Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:46:55.642Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:51:55.642Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:56:55.643Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:01:55.643Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:06:55.643Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:11:55.643Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:16:55.643Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:21:55.644Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:26:55.644Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:31:55.644Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:36:55.644Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:41:55.647Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:46:55.645Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:51:55.648Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:56:55.650Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:01:55.649Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:06:55.650Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:11:55.655Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:16:55.656Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:21:55.656Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:26:55.655Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:31:55.655Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:36:55.658Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:41:55.658Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:46:55.658Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:51:55.659Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+and - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:12:06.522Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:17:06.522Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:22:06.522Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:27:06.522Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:32:06.522Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:37:06.522Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:42:06.522Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:47:06.522Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:52:06.522Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+essionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T09:59:03.341Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:04:03.341Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:09:03.341Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:14:03.342Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:19:03.342Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:24:03.342Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:29:03.342Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:34:03.343Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:39:03.343Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:44:03.342Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:49:03.343Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:54:06.332Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:59:06.333Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:04:06.333Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:09:06.333Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:14:06.333Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:19:06.333Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:24:06.333Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:29:06.333Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:34:06.333Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:39:06.334Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:44:06.334Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:49:06.334Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:54:06.335Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:59:06.335Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:04:06.342Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:09:06.342Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:14:06.342Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:19:06.342Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:24:06.343Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:29:06.343Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:34:06.346Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:39:06.346Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:44:06.347Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:49:06.347Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:54:06.347Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:59:06.349Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:04:06.347Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:09:06.348Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:14:06.347Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:19:06.347Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:24:06.348Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:29:06.348Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:34:06.347Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:39:06.348Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:44:06.348Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:49:06.348Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:54:06.348Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+T10:54:16.988Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:59:16.988Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:04:16.988Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:09:16.988Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:14:16.988Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:19:16.989Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:24:16.990Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:29:16.990Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:34:16.990Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:39:16.990Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:44:16.990Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:49:16.990Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:54:16.990Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:59:16.990Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:04:16.990Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:09:16.990Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:14:16.990Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:19:16.990Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:24:16.991Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:29:16.991Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:34:16.991Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:39:16.991Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:44:16.991Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:49:16.991Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:54:16.992Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:59:16.993Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:04:16.993Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:09:16.998Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:14:17.002Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:19:17.003Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:24:17.009Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:29:17.014Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:34:17.014Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:39:17.014Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:44:17.014Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:49:17.022Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:54:17.024Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+synchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:24:27.270Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:29:27.270Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:34:27.270Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:39:27.270Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:44:27.270Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:49:27.271Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:54:27.271Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+f0b0-60fa-11e9-b6ed-e937513a35eb] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T10:21:38.303Z] Session [91f4f0b0-60fa-11e9-b6ed-e937513a35eb] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T10:21:38.363Z] Session [91f4f0b0-60fa-11e9-b6ed-e937513a35eb] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T10:21:38.363Z] Session [91f4f0b0-60fa-11e9-b6ed-e937513a35eb] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[INFO  - 2019-04-17T10:26:30.833Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:31:30.837Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:36:30.837Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:41:30.839Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:46:30.839Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:51:33.829Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:56:33.829Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:01:33.829Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:06:33.829Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:11:33.829Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:16:33.829Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:21:33.829Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:26:33.829Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:31:33.829Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:36:33.829Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:41:33.829Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:46:33.829Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:51:33.830Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:56:33.831Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:01:33.831Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:06:33.863Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:11:33.863Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:16:33.863Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:21:33.863Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:26:33.863Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:31:33.863Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:36:33.863Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:41:33.863Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:46:33.864Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:51:33.864Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:56:33.864Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:01:33.864Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:06:33.864Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:11:33.864Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:16:33.864Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:21:33.864Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:26:33.864Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:31:33.864Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:36:33.864Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:41:33.864Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:46:33.879Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:51:33.879Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+age.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T10:21:45.344Z] Session [966ac160-60fa-11e9-b0f9-ef0853f390a4] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T10:21:45.393Z] Session [966ac160-60fa-11e9-b0f9-ef0853f390a4] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T10:21:45.393Z] Session [966ac160-60fa-11e9-b0f9-ef0853f390a4] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[INFO  - 2019-04-17T10:26:39.379Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:31:39.381Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:36:39.384Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:41:39.385Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:46:39.385Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:51:42.374Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T10:56:42.376Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:01:42.376Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:06:42.377Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:11:42.377Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:16:42.377Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:21:42.377Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:26:42.377Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:31:42.377Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:36:42.377Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:41:42.377Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:46:42.377Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:51:42.377Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T11:56:42.377Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:01:42.377Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:06:42.377Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:11:42.378Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:16:42.378Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:21:42.378Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:26:42.378Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:31:42.379Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:36:42.379Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:41:42.379Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:46:42.379Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:51:42.379Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T12:56:42.379Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:01:42.379Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:06:42.380Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:11:42.380Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:16:42.380Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:21:42.380Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:26:42.380Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:31:42.380Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:36:42.380Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:41:42.380Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:46:42.380Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:51:42.380Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+and - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:11:48.863Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:16:48.863Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:21:48.863Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:26:48.863Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:31:48.864Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:36:48.864Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:41:48.864Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:46:48.864Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:51:48.864Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-04-17T13:12:35.984Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 77dcb790-6112-11e9-80da-6b5b658a5790
+[ERROR - 2019-04-17T13:12:46.555Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - msg: ERROR TypeError: Attempted to assign to readonly property.
+[ERROR - 2019-04-17T13:12:46.556Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:46.598Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:46.598Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:46.605Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:46.605Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:46.608Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:46.608Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:46.619Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:46.619Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:46.633Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:46.634Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:46.732Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:46.733Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:46.844Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:46.844Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:46.852Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:46.853Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:46.860Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:46.861Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:46.869Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:46.869Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:46.878Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:46.879Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:47.116Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:47.117Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:47.125Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:47.125Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:47.136Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:47.137Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:47.272Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:47.272Z] Session [77dcb790-6112-11e9-80da-6b5b658a5790] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[INFO  - 2019-04-17T13:17:35.669Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:22:35.669Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:27:35.670Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:32:35.670Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:37:35.671Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:42:35.671Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:47:35.671Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:52:35.671Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-04-17T13:12:47.868Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 7ef21250-6112-11e9-8ffc-09fff525af91
+[ERROR - 2019-04-17T13:12:55.702Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - msg: ERROR TypeError: Attempted to assign to readonly property.
+[ERROR - 2019-04-17T13:12:55.702Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:55.743Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:55.743Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:55.749Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:55.749Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:55.751Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:55.752Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:55.833Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:55.833Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:55.846Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:55.847Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:55.949Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:55.949Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:56.146Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:56.147Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:56.156Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:56.157Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:56.162Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:56.162Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:56.170Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:56.170Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:56.180Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:56.181Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:56.459Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:56.459Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:56.463Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:56.463Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:56.466Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:56.467Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:12:56.759Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:12:56.759Z] Session [7ef21250-6112-11e9-8ffc-09fff525af91] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[INFO  - 2019-04-17T13:17:47.602Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:22:47.607Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:27:47.606Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:32:47.607Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:37:47.608Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:42:47.612Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:47:47.613Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:52:47.613Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-04-17T13:12:57.082Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 846f8f00-6112-11e9-a1b5-5517a92b3262
+[INFO  - 2019-04-17T13:17:56.822Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:22:56.828Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:27:56.828Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:32:56.828Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:37:56.829Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:42:56.829Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:47:56.830Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:52:56.833Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-04-17T13:13:06.051Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 89c893c0-6112-11e9-be5a-cf92e64e672b
+[INFO  - 2019-04-17T13:18:05.701Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:18:05.701Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session '89c893c0-6112-11e9-be5a-cf92e64e672b', because windowless
+Images":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-04-17T13:14:42.881Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.customHeaders:  - {}
+[INFO  - 2019-04-17T13:14:42.881Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-04-17T13:14:42.881Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c37fa9a0-6112-11e9-95c5-d14778f44b18
+[ERROR - 2019-04-17T13:14:49.122Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - msg: ERROR TypeError: Attempted to assign to readonly property.
+[ERROR - 2019-04-17T13:14:49.122Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:14:49.166Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:14:49.166Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:14:49.172Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:14:49.173Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:14:49.175Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:14:49.175Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:14:49.196Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:14:49.196Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:14:49.209Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:14:49.209Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:14:49.285Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:14:49.285Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:14:49.505Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:14:49.505Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:14:49.512Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:14:49.513Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:14:49.521Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:14:49.521Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:14:49.532Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:14:49.532Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:14:49.785Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:14:49.786Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:14:49.789Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:14:49.790Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:14:49.793Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:14:49.794Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:14:49.827Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:14:49.827Z] Session [c37fa9a0-6112-11e9-95c5-d14778f44b18] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[INFO  - 2019-04-17T13:19:42.352Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:24:42.355Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:29:42.355Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:34:42.358Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:39:42.359Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:44:42.359Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:49:42.360Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-04-17T13:14:50.778Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c83409f0-6112-11e9-a725-ed5a3d3e630a
+[ERROR - 2019-04-17T13:14:58.315Z] Session [c83409f0-6112-11e9-a725-ed5a3d3e630a] - page.onError - msg: ERROR TypeError: Attempted to assign to readonly property.
+[ERROR - 2019-04-17T13:14:58.316Z] Session [c83409f0-6112-11e9-a725-ed5a3d3e630a] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:14:58.362Z] Session [c83409f0-6112-11e9-a725-ed5a3d3e630a] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:14:58.363Z] Session [c83409f0-6112-11e9-a725-ed5a3d3e630a] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:14:58.368Z] Session [c83409f0-6112-11e9-a725-ed5a3d3e630a] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:14:58.368Z] Session [c83409f0-6112-11e9-a725-ed5a3d3e630a] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:14:58.371Z] Session [c83409f0-6112-11e9-a725-ed5a3d3e630a] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:14:58.371Z] Session [c83409f0-6112-11e9-a725-ed5a3d3e630a] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:14:58.403Z] Session [c83409f0-6112-11e9-a725-ed5a3d3e630a] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:14:58.403Z] Session [c83409f0-6112-11e9-a725-ed5a3d3e630a] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:14:58.416Z] Session [c83409f0-6112-11e9-a725-ed5a3d3e630a] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:14:58.416Z] Session [c83409f0-6112-11e9-a725-ed5a3d3e630a] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:14:58.504Z] Session [c83409f0-6112-11e9-a725-ed5a3d3e630a] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:14:58.504Z] Session [c83409f0-6112-11e9-a725-ed5a3d3e630a] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:14:58.750Z] Session [c83409f0-6112-11e9-a725-ed5a3d3e630a] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:14:58.750Z] Session [c83409f0-6112-11e9-a725-ed5a3d3e630a] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:14:58.761Z] Session [c83409f0-6112-11e9-a725-ed5a3d3e630a] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:14:58.761Z] Session [c83409f0-6112-11e9-a725-ed5a3d3e630a] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:14:58.770Z] Session [c83409f0-6112-11e9-a725-ed5a3d3e630a] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:14:58.771Z] Session [c83409f0-6112-11e9-a725-ed5a3d3e630a] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:14:59.237Z] Session [c83409f0-6112-11e9-a725-ed5a3d3e630a] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:14:59.237Z] Session [c83409f0-6112-11e9-a725-ed5a3d3e630a] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:14:59.240Z] Session [c83409f0-6112-11e9-a725-ed5a3d3e630a] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:14:59.240Z] Session [c83409f0-6112-11e9-a725-ed5a3d3e630a] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:14:59.242Z] Session [c83409f0-6112-11e9-a725-ed5a3d3e630a] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:14:59.243Z] Session [c83409f0-6112-11e9-a725-ed5a3d3e630a] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:14:59.346Z] Session [c83409f0-6112-11e9-a725-ed5a3d3e63[INFO  - 2019-04-17T13:14:59.662Z] Session [cd803d70-6112-11e9-9d74-83688ba5335a] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":tru[INFO  - 2019-04-17T13:19:50.452Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:24:50.452Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:29:50.452Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:34:50.453Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:39:50.453Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:44:50.455Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:49:50.455Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+on Created: cd803d70-6112-11e9-9d74-83688ba5335a
+[ERROR - 2019-04-17T13:15:08.165Z] Session [cd803d70-6112-11e9-9d74-83688ba5335a] - page.onError - msg: ERROR TypeError: Attempted to assign to readonly property.
+[ERROR - 2019-04-17T13:15:08.166Z] Session [cd803d70-6112-11e9-9d74-83688ba5335a] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:15:08.214Z] Session [cd803d70-6112-11e9-9d74-83688ba5335a] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:15:08.214Z] Session [cd803d70-6112-11e9-9d74-83688ba5335a] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:15:08.222Z] Session [cd803d70-6112-11e9-9d74-83688ba5335a] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:15:08.223Z] Session [cd803d70-6112-11e9-9d74-83688ba5335a] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:15:08.225Z] Session [cd803d70-6112-11e9-9d74-83688ba5335a] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:15:08.226Z] Session [cd803d70-6112-11e9-9d74-83688ba5335a] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:15:08.231Z] Session [cd803d70-6112-11e9-9d74-83688ba5335a] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:15:08.231Z] Session [cd803d70-6112-11e9-9d74-83688ba5335a] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:15:08.241Z] Session [cd803d70-6112-11e9-9d74-83688ba5335a] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:15:08.242Z] Session [cd803d70-6112-11e9-9d74-83688ba5335a] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:15:08.345Z] Session [cd803d70-6112-11e9-9d74-83688ba5335a] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:15:08.345Z] Session [cd803d70-6112-11e9-9d74-83688ba5335a] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:15:08.607Z] Session [cd803d70-6112-11e9-9d74-83688ba5335a] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:15:08.607Z] Session [cd803d70-6112-11e9-9d74-83688ba5335a] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:15:08.612Z] Session [cd803d70-6112-11e9-9d74-83688ba5335a] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:15:08.612Z] Session [cd803d70-6112-11e9-9d74-83688ba5335a] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:15:08.615Z] Session [cd803d70-6112-11e9-9d74-83688ba5335a] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:15:08.616Z] Session [cd803d70-6112-11e9-9d74-83688ba5335a] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:15:08.786Z] Session [cd803d70-6112-11e9-9d74-83688ba5335a] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:15:08.787Z] Session [cd803d70-6112-11e9-9d74-83688ba5335a] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:15:08.798Z] Session [cd803d70-6112-11e9-9d74-83688ba5335a] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:15:08.798Z] Session [cd803d70-6112-11e9-9d74-83688ba5335a] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:15:08.810Z] Session [cd803d70-6112-11e9-9d74-83688ba5335a] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:15:08.810Z] Session [cd803d70-6112-11e9-9d74-83688ba5335a] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:15:09.080Z] Session [cd803d70-6112-11e9-9d74-83688ba53[INFO  - 2019-04-17T13:15:09.384Z] Session [d34b64f0-6112-11e9-a822-c31ba7ddd8de] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-04-17T13:15:09.384Z] Session [d34b64f0-6112-11e9-a822-c31ba7ddd8de] - page.customHeaders:  - {}
+[INFO  - 2019-04-17T13:15:09.384Z] Session [d34b64f0-6112-11e9-a822-c31ba7ddd8de] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":[INFO  - 2019-04-17T13:19:59.326Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:24:59.326Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:29:59.326Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:34:59.326Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:39:59.327Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:44:59.327Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:49:59.327Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+] - page.customHeaders:  - {}
+[INFO  - 2019-04-17T13:16:10.386Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-04-17T13:16:10.386Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f7a7ddb0-6112-11e9-a200-ed629d9f1db7
+[ERROR - 2019-04-17T13:16:19.391Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - msg: ERROR TypeError: Attempted to assign to readonly property.
+[ERROR - 2019-04-17T13:16:19.392Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:16:19.441Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:16:19.442Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:16:19.450Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:16:19.451Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:16:19.453Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:16:19.453Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:16:19.531Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:16:19.531Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:16:19.543Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:16:19.544Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:16:19.640Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:16:19.640Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:16:19.818Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:16:19.818Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:16:19.833Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:16:19.834Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:16:19.840Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:16:19.841Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:16:19.850Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:16:19.851Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:16:19.860Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:16:19.861Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:16:20.151Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:16:20.152Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:16:20.155Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:16:20.155Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:16:20.158Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:16:20.158Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:16:20.168Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:16:20.168Z] Session [f7a7ddb0-6112-11e9-a200-ed629d9f1db7] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[INFO  - 2019-04-17T13:21:10.292Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:26:10.294Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:31:10.295Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:36:10.295Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:41:10.295Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:46:10.297Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:51:10.297Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+:false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-04-17T13:16:20.849Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: fde37a40-6112-11e9-86ea-afae7dd32952
+[ERROR - 2019-04-17T13:16:31.145Z] Session [fde37a40-6112-11e9-86ea-afae7dd32952] - page.onError - msg: ERROR TypeError: Attempted to assign to readonly property.
+[ERROR - 2019-04-17T13:16:31.146Z] Session [fde37a40-6112-11e9-86ea-afae7dd32952] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:16:31.201Z] Session [fde37a40-6112-11e9-86ea-afae7dd32952] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:16:31.202Z] Session [fde37a40-6112-11e9-86ea-afae7dd32952] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:16:31.210Z] Session [fde37a40-6112-11e9-86ea-afae7dd32952] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:16:31.210Z] Session [fde37a40-6112-11e9-86ea-afae7dd32952] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:16:31.213Z] Session [fde37a40-6112-11e9-86ea-afae7dd32952] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:16:31.214Z] Session [fde37a40-6112-11e9-86ea-afae7dd32952] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:16:31.220Z] Session [fde37a40-6112-11e9-86ea-afae7dd32952] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:16:31.222Z] Session [fde37a40-6112-11e9-86ea-afae7dd32952] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:16:31.237Z] Session [fde37a40-6112-11e9-86ea-afae7dd32952] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:16:31.238Z] Session [fde37a40-6112-11e9-86ea-afae7dd32952] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:16:31.373Z] Session [fde37a40-6112-11e9-86ea-afae7dd32952] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:16:31.374Z] Session [fde37a40-6112-11e9-86ea-afae7dd32952] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:16:31.506Z] Session [fde37a40-6112-11e9-86ea-afae7dd32952] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:16:31.506Z] Session [fde37a40-6112-11e9-86ea-afae7dd32952] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:16:31.516Z] Session [fde37a40-6112-11e9-86ea-afae7dd32952] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:16:31.517Z] Session [fde37a40-6112-11e9-86ea-afae7dd32952] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:16:31.526Z] Session [fde37a40-6112-11e9-86ea-afae7dd32952] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:16:31.527Z] Session [fde37a40-6112-11e9-86ea-afae7dd32952] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:16:31.903Z] Session [fde37a40-6112-11e9-86ea-afae7dd32952] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:16:31.904Z] Session [fde37a40-6112-11e9-86ea-afae7dd32952] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:16:31.929Z] Session [fde37a40-6112-11e9-86ea-afae7dd32952] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:16:31.929Z] Session [fde37a40-6112-11e9-86ea-afae7dd32952] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:16:31.932Z] Session [fde37a40-6112-11e9-86ea-afae7dd32952] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:16:31.933Z] Session [fde37a40-6112-11e9-86ea-afae7dd32952] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:16:31.946Z] Session [fde37a40-6112-11e9-86ea-afae7dd32952] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:16:31.947Z] Session [fde37a40-6112-11e9-86ea-afae7dd32952] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[INFO  - 2019-04-17T13:21:20.514Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:26:20.514Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:31:20.514Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:36:20.514Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:41:20.517Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:46:20.518Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:51:20.518Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-04-17T13:16:32.503Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 04d67ff0-6113-11e9-a7ec-112a4d8881d3
+[INFO  - 2019-04-17T13:21:32.357Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:21:32.358Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session '04d67ff0-6113-11e9-a7ec-112a4d8881d3', because windowless
+Images":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-04-17T13:16:45.334Z] Session [0c7ca900-6113-11e9-a5c6-b398c77fc306] - page.customHeaders:  - {}
+[INFO  - 2019-04-17T13:16:45.335Z] Session [0c7ca900-6113-11e9-a5c6-b398c77fc306] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-04-17T13:16:45.335Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0c7ca900-6113-11e9-a5c6-b398c77fc306
+[INFO  - 2019-04-17T13:21:45.031Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:21:45.032Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session '0c7ca900-6113-11e9-a5c6-b398c77fc306', because windowless
+Images":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-04-17T13:20:59.529Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.customHeaders:  - {}
+[INFO  - 2019-04-17T13:20:59.529Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-04-17T13:20:59.529Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a3ff6f10-6113-11e9-a485-4d9b86876c7b
+[ERROR - 2019-04-17T13:21:07.386Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.onError - msg: ERROR TypeError: Attempted to assign to readonly property.
+[ERROR - 2019-04-17T13:21:07.387Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:21:07.434Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:21:07.434Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:21:07.441Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:21:07.441Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:21:07.444Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:21:07.444Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:21:07.466Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:21:07.467Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:21:07.480Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:21:07.480Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:21:07.574Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:21:07.574Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:21:07.782Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:21:07.782Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:21:07.793Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:21:07.794Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:21:07.798Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:21:07.798Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:21:07.803Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:21:07.803Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:21:07.807Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:21:07.807Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:21:07.821Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:21:07.821Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:21:08.072Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:21:08.073Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c7b] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:21:08.354Z] Session [a3ff6f10-6113-11e9-a485-4d9b86876c[INFO  - 2019-04-17T13:21:08.503Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-04-17T13:21:08.503Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.customHeaders:  - {}
+[INFO  - 2019-04-17T13:21:08.503Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-04-17T13:21:08.504Z] SessionManagerReqHand - _pos[INFO  - 2019-04-17T13:25:59.292Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:30:59.291Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:35:59.294Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:40:59.297Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:45:59.297Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:50:59.298Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+ Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:21:17.859Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:21:17.862Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:21:17.863Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:21:17.868Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:21:17.868Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:21:17.880Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:21:17.881Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:21:17.970Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:21:17.971Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:21:17.984Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:21:17.985Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:21:17.994Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:21:17.995Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:21:18.006Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:21:18.007Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:21:18.023Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:21:18.023Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:21:18.027Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:21:18.027Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:21:18.281Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:21:18.282Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:21:18.305Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:21:18.306Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:21:18.308Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:21:18.309Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:21:18.543Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:21:18.543Z] Session [a958e900-6113-11e9-b56a-5b92f08575ef] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[INFO  - 2019-04-17T13:26:08.387Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:31:08.388Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:36:08.388Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:41:08.389Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:46:08.389Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:51:08.389Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-04-17T13:21:18.900Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: af8b5dd0-6113-11e9-ad36-df44ce9eba0d
+[INFO  - 2019-04-17T13:26:18.587Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:26:18.588Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session 'af8b5dd0-6113-11e9-ad36-df44ce9eba0d', because windowless
+Images":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-04-17T13:21:29.048Z] Session [b597d410-6113-11e9-9266-197184f43f4a] - page.customHeaders:  - {}
+[INFO  - 2019-04-17T13:21:29.049Z] Session [b597d410-6113-11e9-9266-197184f43f4a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-04-17T13:21:29.049Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b597d410-6113-11e9-9266-197184f43f4a
+[INFO  - 2019-04-17T13:26:29.094Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:26:29.095Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session 'b597d410-6113-11e9-9266-197184f43f4a', because windowless
+mages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-04-17T13:23:38.288Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.customHeaders:  - {}
+[INFO  - 2019-04-17T13:23:38.288Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-04-17T13:23:38.288Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 029fd460-6114-11e9-879f-894212b2f68c
+[ERROR - 2019-04-17T13:23:47.598Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - msg: ERROR TypeError: Attempted to assign to readonly property.
+[ERROR - 2019-04-17T13:23:47.599Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:23:47.676Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:23:47.677Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:23:47.684Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:23:47.685Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:23:47.687Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:23:47.688Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:23:47.693Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:23:47.694Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:23:47.708Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:23:47.708Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:23:47.979Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:23:47.980Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:23:48.124Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:23:48.125Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:23:48.140Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:23:48.140Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:23:48.148Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:23:48.149Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:23:48.160Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:23:48.160Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:23:48.524Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:23:48.525Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:23:48.530Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:23:48.530Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:23:48.533Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:23:48.534Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:23:48.548Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:23:48.549Z] Session [029fd460-6114-11e9-879f-894212b2f68c] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[INFO  - 2019-04-17T13:28:37.325Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:33:37.327Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:38:37.327Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:43:37.328Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:48:37.328Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:53:37.328Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-04-17T13:23:49.347Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0936d760-6114-11e9-9795-d5a995158ad1
+[ERROR - 2019-04-17T13:23:59.145Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - msg: ERROR TypeError: Attempted to assign to readonly property.
+[ERROR - 2019-04-17T13:23:59.145Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:23:59.202Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:23:59.203Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:23:59.211Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:23:59.211Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:23:59.213Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:23:59.214Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:23:59.217Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:23:59.218Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:23:59.247Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:23:59.248Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:23:59.362Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:23:59.362Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:23:59.514Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:23:59.514Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:23:59.522Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:23:59.522Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:23:59.531Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:23:59.532Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:23:59.554Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:23:59.554Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:24:00.153Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:24:00.153Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:24:00.159Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:24:00.160Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:24:00.163Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:24:00.163Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[ERROR - 2019-04-17T13:24:00.178Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - msg: ERROR Error: SyntaxError: DOM Exception 12
+[ERROR - 2019-04-17T13:24:00.179Z] Session [0936d760-6114-11e9-9795-d5a995158ad1] - page.onError - stack:
+  $d (http://10.10.1.25:91/main.cbad61da1968418c349b.js:1)
+[INFO  - 2019-04-17T13:28:49.261Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:33:49.261Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:38:49.263Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:43:49.264Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:48:49.265Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:53:49.265Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+:"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-04-17T13:24:00.775Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 10067690-6114-11e9-98cc-f7e9eb204ca3
+[INFO  - 2019-04-17T13:29:00.628Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:29:00.629Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session '10067690-6114-11e9-98cc-f7e9eb204ca3', because windowless
+Images":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-04-17T13:24:08.515Z] Session [14a41a90-6114-11e9-91b1-17498a596bd4] - page.customHeaders:  - {}
+[INFO  - 2019-04-17T13:24:08.515Z] Session [14a41a90-6114-11e9-91b1-17498a596bd4] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-04-17T13:24:08.515Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 14a41a90-6114-11e9-91b1-17498a596bd4
+[INFO  - 2019-04-17T13:29:08.290Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-04-17T13:29:08.291Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session '14a41a90-6114-11e9-91b1-17498a596bd4', because windowless
