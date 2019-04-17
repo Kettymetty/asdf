@@ -30,6 +30,6 @@ public class BejelentkezesTest {
 
     @Test
     public void loginTestBad() {
-        loginTest("asdwfq", "fwq");
+        loginTest("gaz_teszt", "gaz");
     }
 }
